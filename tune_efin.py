@@ -210,7 +210,7 @@ def objective(single_trial):
 seed = 0
 n_trials = 40
 num_epoch = 20
-metric = 'QINI'
+# metric = 'QINI'
 
 setup_seed(seed)
 
